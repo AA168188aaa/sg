@@ -98,7 +98,5 @@
       </div>
     </section>
   </main>
-<script src="static/js/hm.js.js"></script><script src="static/js/jquery-3.6.0.min.js.js"></script>
-<script src="static/js/jquery.cookie.js.js"></script>
-<script src="static/js/jquery.waypoints.min.js.js"></script>
+
 </body></html>
